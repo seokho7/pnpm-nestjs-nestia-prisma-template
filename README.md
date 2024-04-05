@@ -1,4 +1,4 @@
-# nestjs-template
+# pnpm-nestjs-nestia-prisma-template
 
 ### local server run
 1. cd server
