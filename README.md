@@ -8,7 +8,6 @@
 5. pnpm start:dev or pnpm start
 
 ### docker up
-1. cd server
-2. .env setting
-3. cd ..
-4. sudo docker compose up -d
+1. .env setting
+2. cd ..
+3. sudo docker compose up -d
